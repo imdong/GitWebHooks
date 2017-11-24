@@ -6,7 +6,7 @@
  */
 
 return [
-    // 项目一2
+    // 项目一
     'project_a' => [
         'path' => '/home/htdocs/project_a/',
         'token' => '56b03be5503c17f44b862ccba63add48'
